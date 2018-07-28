@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(3, 0, 51);
+}
+
+
+#red{
+    color: red;
+    text-align: center;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+}
