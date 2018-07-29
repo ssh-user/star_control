@@ -7,6 +7,6 @@ But you can see what realized at this moment in video down.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2ojpAEbDNFY" target="_blank"><img src="http://img.youtube.com/vi/2ojpAEbDNFY/0.jpg" 
 alt="here shoul be video" width="240" height="180" border="10" /></a>
 
-**__Big thanks to the authirs of Star Control Ur-Quan Masters.__**
+**_Big thanks to the authors of Star Control Ur-Quan Masters._**
 
 #### Have a good day!
